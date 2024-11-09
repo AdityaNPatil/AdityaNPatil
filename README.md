@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adityapatil.netlify.app/](https://adityapatil.netlify.app/)
 
-- 💬 Ask me about **React, JS and other dev stuff**
+- 💬 Ask me about **anything related to Development and Software**
 
 - 📫 How to reach me **adityapatil2708@gmail.com**
   
