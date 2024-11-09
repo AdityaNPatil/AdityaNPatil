@@ -14,9 +14,7 @@
 - 💬 Ask me about **React, JS and other dev stuff**
 
 - 📫 How to reach me **adityapatil2708@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Hri9XR29Ebb_RzT48Ftid5Q4YH2dtOA/view](https://drive.google.com/file/d/13Hri9XR29Ebb_RzT48Ftid5Q4YH2dtOA/view)
-
+  
 - ⚡ Fun fact **I sketch, animate and game a lot.**
 
 <h3 align="left">Connect with me:</h3>
