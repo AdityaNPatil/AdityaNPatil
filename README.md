@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer building solutions 1 line of code at a time</h3>
 
 - 🔭 I’m currently working on **FullStack projects and AI/ML**
 
