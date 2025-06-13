@@ -5,7 +5,7 @@ Developer & Gamer
 ---------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://adityapatil.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://adityapatil-portfolio-react.vercel.app/)
 * ✉️  You can contact me at [adityapatil2708@gmail.com](mailto:adityapatil2708@gmail.com)
 * 🧠  I'm learning NextJS, Spring, ML and Go.
 * 🤝  I'm open to collaborating on interesting projects and development tasks.
